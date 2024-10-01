@@ -25,9 +25,18 @@
 
 ---
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000)            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark) 
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!---
 PatrickLeimer/PatrickLeimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
