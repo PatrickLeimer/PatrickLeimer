@@ -23,6 +23,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman API" width="40" height="40"/>
 </div>
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-PatrickLeimer&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 
 <!---
 PatrickLeimer/PatrickLeimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
