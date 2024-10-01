@@ -25,14 +25,15 @@
 
 ---
 ### :fire: My Stats :
-<div align="center" style="justify-content: center; gap: 20px; width: 50%; max-width: 100px;">
-  <div style="width: 100px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 300px;"/>
+<div align="center" style="display: flex; justify-content: center; width: 100%; max-width: 800px;">
+  <div style="flex: 1; margin: 0 10px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;"/>
   </div>
-  <div style="width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 300px;"/>
+  <div style="flex: 1; margin: 0 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 100%;"/>
   </div>
 </div>
+
 
 
 <!---
