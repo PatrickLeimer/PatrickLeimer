@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ohuPdEkUlaZa7dKy4/giphy.gif?cid=790b7611tkqfqu2y3nfw45l3lc1znb00ldqz6zfvha517kn6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
@@ -22,20 +21,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman API" width="40" height="40"/>
 </div>
-
 ---
 ### :fire: My Stats :
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div style="border: 1px solid transparent; width: 400px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;"/>
+  </div>
+  <div style="border: 1px solid transparent; width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 100%;"/>
+  </div>
 </div>
 
 <!---
