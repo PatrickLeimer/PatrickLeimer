@@ -25,7 +25,7 @@
 
 ---
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark) |
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark) 
 
 
 
