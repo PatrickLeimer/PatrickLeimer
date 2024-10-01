@@ -29,10 +29,9 @@
   <div style="width: 400px;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 50%;"/>
   </div>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="width: 35%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatrickLeimer&theme=vue-dark&hide_border=true" style="width: 49%;">
+  <div style="width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 50%;"/>
+  </div>
 </div>
 
 
