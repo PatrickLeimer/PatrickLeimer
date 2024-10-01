@@ -25,7 +25,7 @@
 
 ---
 ### :fire: My Stats :
-<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 400px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 50%; max-width: 100px;">
   <div style="width: 100px;">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;"/>
   </div>
