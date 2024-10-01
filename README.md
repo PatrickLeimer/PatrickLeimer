@@ -27,10 +27,10 @@
 ### :fire: My Stats :
 <div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 800px;">
   <div style="width: 400px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 50%;"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 40%;"/>
   </div>
   <div style="width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 40%;"/>
   </div>
 </div>
 
