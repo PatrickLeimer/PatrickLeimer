@@ -21,14 +21,14 @@
 ---
 
 ### :fire: My Stats :
-<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 800px;">
-  <div style="width: 400px;">
-    <img src="https://streak-stats.demolab.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;"/>
-  </div>
-  <div style="width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 100%;"/>
-  </div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=neon&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
+
 
 
 <!---
