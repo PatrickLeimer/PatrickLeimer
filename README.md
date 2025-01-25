@@ -23,7 +23,6 @@
 ### :fire: My Stats :
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=neon&hide_border=true" alt="GitHub Streak" /></a>  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 
