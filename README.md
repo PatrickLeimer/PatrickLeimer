@@ -14,24 +14,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman API" width="40" height="40"/>
 </div>
 
 ---
+
 ### :fire: My Stats :
 <div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 800px;">
   <div style="width: 400px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 40%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%;"/>
   </div>
   <div style="width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickLeimer&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 100%;"/>
   </div>
 </div>
-
-
 
 <!---
 PatrickLeimer/PatrickLeimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
