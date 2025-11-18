@@ -16,11 +16,21 @@ When I'm not programming, you'll catch me running 🏃‍♂️, playing soccer 
 ---
 
 ### 🔗 Connect with Me
-[![ ](https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white&label=)](https://patrickleimer.com)
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatrickLeimer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-leimere/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrickleimer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leimerpatrick4@gmail.com)
+<a href="https://patrickleimer.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+<a href="https://github.com/PatrickLeimer" target="_blank">
+  <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/patrick-leimere/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/patrick_leimer" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:leimerpatrick4@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
