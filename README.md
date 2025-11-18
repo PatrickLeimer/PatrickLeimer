@@ -25,7 +25,7 @@ When I'm not programming, you'll catch me running 🏃‍♂️, playing soccer 
 <a href="https://www.linkedin.com/in/patrick-leimere/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/patrick_leimer" target="_blank">
+<a href="https://www.instagram.com/patrick_leimer/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:leimerpatrick4@gmail.com" target="_blank">
