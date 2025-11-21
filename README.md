@@ -1,7 +1,7 @@
 ## 👋 Hey! I'm Patrick <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 ### 🙋‍♂️ About Me
-I'm a Costa Rican software engineer in the making 🇨🇷 who loves building things that make life better with tech.  
+I'm a software engineer in the making 🇨🇷 who loves building things that make life better with tech.  
 Whether it's full-stack development, automation, or cloud systems, I'm all about solving real problems with code ⚙️.
 
 When I'm not programming, you'll catch me running 🏃‍♂️, playing soccer ⚽, learning something new every day 📚, traveling ✈️, and jamming on my guitar 🎸.
