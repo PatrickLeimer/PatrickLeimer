@@ -36,6 +36,6 @@ When I'm not programming, you'll catch me running 🏃‍♂️, playing soccer 
 
 ### :fire: My Stats :
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PatrickLeimer&theme=neon&hide_border=true" alt="GitHub Streak" /></a>  <br/>
+[![GitHub Streak](https://github-readme-streak-stats-theta-dusky.vercel.app?user=PatrickLeimer&theme=vue-dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
 
