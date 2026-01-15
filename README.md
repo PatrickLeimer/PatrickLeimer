@@ -10,11 +10,6 @@ When I'm not programming, you'll catch me running 🏃‍♂️, playing soccer 
 
 ---
 
-### 🎵 What I'm Listening To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22mvmvurwc6xlsu2cldcjbsni)](https://open.spotify.com/user/22mvmvurwc6xlsu2cldcjbsni)
-
----
-
 ### 🔗 Connect with Me
 <a href="https://patrickleimer.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
